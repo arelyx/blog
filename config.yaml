@@ -1,0 +1,6 @@
+baseURL: "http://blog.arelyx.xyz/"
+languageCode: "en-us"
+title: "arelyx blog"
+theme: "PaperMod"
+params:
+  disableSpecial1stPost: true
